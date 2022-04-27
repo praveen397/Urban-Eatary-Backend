@@ -24,5 +24,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "urban-eatary-backend"
-          heroku_email: "nishchay.vns2000@gmail.com"
+          heroku_app_name: "urban-eatary-backend-1"
+          heroku_email: "praveenkumar.r19@iiits.in"
